@@ -1,0 +1,7 @@
+.blue {
+    background: rgb(77, 72, 139);
+    background: linear-gradient(90deg, rgba(77, 72, 139, 1) 100%, rgba(0, 212, 255, 1) 100%, rgba(2, 0, 36, 1) 100%);
+}
+.navbar-item {
+    color: white;
+}
